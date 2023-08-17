@@ -12,5 +12,19 @@
         "tags": [
             "authentication"
         ]
+    },
+    "qwerty": {
+        "projectName": "qwerty",
+        "description": "qwerty",
+        "type": "community",
+        "author": "attacker4930",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/attacker4930/agama1",
+        "githubUri": "https://github.com/attacker4930/agama1",
+        "license": "MIT",
+        "lastUpdated": "1692270993255",
+        "tags": [
+            "authentication"
+        ]
     }
 }
