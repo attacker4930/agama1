@@ -40,5 +40,23 @@
         "tags": [
             "authentication"
         ]
+    },
+    "ResetPassword": {
+        "projectName": "ResetPassword",
+        "description": "resetting password",
+        "type": "community",
+        "author": "attacker4930",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/attacker4930/agama1",
+        "githubUri": "https://github.com/attacker4930/agama1",
+        "license": "MIT",
+        "lastUpdated": "1692619514308",
+        "tags": [
+            "openid-connect",
+            "community",
+            "jans",
+            "authentication",
+            "authorization"
+        ]
     }
 }
