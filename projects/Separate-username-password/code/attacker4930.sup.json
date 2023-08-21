@@ -10,8 +10,8 @@
 				"id": "Agama-start-Flow-4a25b1dd-760d-47ec-b5f1-eecf112d4e73",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 30
+					"x": 27,
+					"y": 116
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -49,16 +49,18 @@
 					"exceptionVariableField": "",
 					"flowname": "attacker4930.gluu.reset"
 				},
-				"skake": true
+				"skake": false
 			},
 			"position": {
-				"x": 30,
-				"y": 30
+				"x": 27,
+				"y": 116
 			},
 			"positionAbsolute": {
-				"x": 30,
-				"y": 30
-			}
+				"x": 27,
+				"y": 116
+			},
+			"selected": true,
+			"dragging": false
 		}
 	],
 	"edges": [],
