@@ -1,55 +1,69 @@
-[
-  {
-    "id": "Agama-start-Flow-979b1740-61b2-43c2-bdf8-9e1468dccd2f",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-979b1740-61b2-43c2-bdf8-9e1468dccd2f",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-979b1740-61b2-43c2-bdf8-9e1468dccd2f",
-        "type": "Agama-start-Flow",
-        "hasSuccess": false,
-        "hasFailure": false,
-        "hasRepeat": false,
-        "hasNoRepeat": false,
-        "inRepeatBlock": false,
-        "name": "",
-        "basepath": "",
-        "comment": "",
-        "notes": "",
-        "flowfilename": "",
-        "assignments": [],
-        "callType": "Call static method",
-        "arguments": "",
-        "logMessage": "",
-        "templatePath": "",
-        "maxIteration": "",
-        "idpAuthEndpoint": "",
-        "variableField": "",
-        "conditionInputField": "",
-        "valueField": "",
-        "returnVariable": "",
-        "javaClassName": "",
-        "javaMethodName": "",
-        "javaVariableName": "",
-        "maxIterationVariableName": "",
-        "logLevel": "",
-        "assignCallbackResult": "",
-        "displayName": "Basic auth flow",
-        "nodeColor": "",
-        "exceptionVariableField": "",
-        "flowname": "attacker4930.co.basic"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-185c49ec-fee7-4540-89ca-de0a7a1762be",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-185c49ec-fee7-4540-89ca-de0a7a1762be",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 30
+				},
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-185c49ec-fee7-4540-89ca-de0a7a1762be",
+					"type": "Agama-start-Flow",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"inRepeatBlock": false,
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "",
+					"nodeColor": "",
+					"exceptionVariableField": ""
+				},
+				"skake": false
+			},
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"positionAbsolute": {
+				"x": 30,
+				"y": 30
+			}
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
