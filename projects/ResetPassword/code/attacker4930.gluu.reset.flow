@@ -4,3 +4,6 @@ RRF "reset_password_form.ftlh"
 user = Call co.sample#findUserByUsername creds.username
 isBobResult = Call co.PersonChecker#isBob creds.username
 When isBob is true
+     Log "@error " @error Alert: Bob tried to reset password
+     Finish false
+When user is not null
