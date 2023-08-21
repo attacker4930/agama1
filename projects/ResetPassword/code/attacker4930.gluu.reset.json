@@ -3,68 +3,79 @@
 		{
 			"width": 170,
 			"height": 122,
-			"id": "Agama-start-Flow-4a25b1dd-760d-47ec-b5f1-eecf112d4e73",
+			"id": "Agama-start-Flow-fa2001ec-a351-4d59-869e-6b40db136f4b",
 			"type": "start",
 			"sourcePosition": "right",
 			"data": {
-				"id": "Agama-start-Flow-4a25b1dd-760d-47ec-b5f1-eecf112d4e73",
+				"id": "Agama-start-Flow-fa2001ec-a351-4d59-869e-6b40db136f4b",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 30
+					"x": 144.34001464843743,
+					"y": -19
 				},
-				"inRepeatBlock": false,
+				"handles": [],
 				"agamaData": {
-					"id": "Agama-start-Flow-4a25b1dd-760d-47ec-b5f1-eecf112d4e73",
+					"id": "Agama-start-Flow-fa2001ec-a351-4d59-869e-6b40db136f4b",
 					"type": "Agama-start-Flow",
-					"hasSuccess": false,
-					"hasFailure": false,
+					"hasSuccess": "",
+					"hasFailure": "",
 					"hasRepeat": false,
 					"hasNoRepeat": false,
-					"inRepeatBlock": false,
 					"name": "",
-					"basepath": "",
+					"basepath": "nopw",
 					"comment": "",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignedvariableName": "",
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
+					"variableType": "",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
-					"variableField": "",
-					"conditionInputField": "",
-					"valueField": "",
+					"whenVariable": "",
+					"whenConditionInputField": "",
+					"whenValue": "",
 					"returnVariable": "",
+					"asssignmentExpression": "",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "resetpassword",
+					"displayName": "Reset Password",
 					"nodeColor": "",
-					"exceptionVariableField": "",
-					"flowname": "attacker4930.gluu.reset"
+					"flowname": "me.gluu.agama.nopw",
+					"nodeIcon": "material-symbols:line-start-square",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					]
 				},
-				"skake": false
+				"inRepeatBlock": false,
+				"whenCondition": ""
 			},
 			"position": {
-				"x": 30,
-				"y": 30
+				"x": 144.34001464843743,
+				"y": -19
 			},
+			"selected": true,
+			"dragging": false,
 			"positionAbsolute": {
-				"x": 30,
-				"y": 30
+				"x": 144.34001464843743,
+				"y": -19
 			}
 		}
 	],
 	"edges": [],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": -64.97698588884316,
+		"y": 240.01159224447275,
+		"zoom": 0.6
 	}
 }
