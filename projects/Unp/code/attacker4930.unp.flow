@@ -8,4 +8,6 @@ Repeat 3 times max
      creds = RRF "password.ftlh" authResult
      authResult.success = Call cdiUtil authenticate creds.username creds.password
      authResult.uid = "creds.username"
+     When __________ __________ __________
+          Finish authResult.uid
 Finish false
