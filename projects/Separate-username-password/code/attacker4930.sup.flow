@@ -1,4 +1,2 @@
 Flow attacker4930.gluu.reset
      Basepath ""
-authService = Call io.jans.as.server.service.AuthenticationService#class 
-Call __________#__________ 
