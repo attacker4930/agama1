@@ -65,9 +65,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1082,
@@ -592,7 +593,7 @@
 					"flowfilename": "",
 					"assignments": [
 						{
-							"variableTypeCheck": true,
+							"variableTypeCheck": false,
 							"assignmentExpression": "{}",
 							"assignedVariableName": "authResult"
 						}
@@ -620,7 +621,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 632,
@@ -1052,8 +1053,8 @@
 		}
 	],
 	"viewport": {
-		"x": 42.533888688362026,
-		"y": 106.76176116866446,
-		"zoom": 0.7491535595676403
+		"x": 8,
+		"y": 74,
+		"zoom": 1
 	}
 }
