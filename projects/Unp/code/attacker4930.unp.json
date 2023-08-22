@@ -65,9 +65,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 1184.1800811255484,
 				"y": 460.2986842199962
@@ -98,14 +99,24 @@
 					"id": "Agama-when-Node-a756a54b-731f-4c37-877a-74852c0b8791",
 					"parentId": "Agama-assignment-Node-63f34812-6e7c-440e-aa05-6cff7f9f562c",
 					"type": "Agama-when-Node",
-					"hasSuccess": true
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"variableField": "authResult.success",
+					"conditionInputField": "is",
+					"valueField": "true"
 				},
 				"handles": [
 					"Agama-when-Node-a756a54b-731f-4c37-877a-74852c0b8791.FAILURE",
 					"Agama-when-Node-a756a54b-731f-4c37-877a-74852c0b8791.SUCCESS"
-				]
+				],
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 874.9586280968288,
