@@ -2,7 +2,7 @@ Flow attacker4930.unp
      Basepath ""
 authService = Call io.jans.as.server.service.AuthenticationService#class 
 cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
-authResult = "{}"
+authResult = {}
 Repeat 3 times max
      creds = RRF "username.ftlh" authResult
      creds = RRF "password.ftlh" authResult
