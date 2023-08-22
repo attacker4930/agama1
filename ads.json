@@ -72,5 +72,19 @@
         "tags": [
             "authentication"
         ]
+    },
+    "Unp": {
+        "projectName": "Unp",
+        "description": "unp",
+        "type": "community",
+        "author": "attacker4930",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/attacker4930/agama1",
+        "githubUri": "https://github.com/attacker4930/agama1",
+        "license": "MIT",
+        "lastUpdated": "1692688554177",
+        "tags": [
+            "authentication"
+        ]
     }
 }
