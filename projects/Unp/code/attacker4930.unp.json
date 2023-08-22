@@ -114,7 +114,7 @@
 					"Agama-when-Node-a756a54b-731f-4c37-877a-74852c0b8791.FAILURE",
 					"Agama-when-Node-a756a54b-731f-4c37-877a-74852c0b8791.SUCCESS"
 				],
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
