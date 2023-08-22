@@ -1,0 +1,55 @@
+[
+  {
+    "id": "Agama-start-Flow-22d41816-5b9a-4fe3-b4ec-6b8e7aa873a3",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-22d41816-5b9a-4fe3-b4ec-6b8e7aa873a3",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-22d41816-5b9a-4fe3-b4ec-6b8e7aa873a3",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "inRepeatBlock": false,
+        "name": "",
+        "basepath": "",
+        "comment": "",
+        "notes": "",
+        "flowfilename": "",
+        "assignments": [],
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "variableField": "",
+        "conditionInputField": "",
+        "valueField": "",
+        "returnVariable": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "UnPw",
+        "nodeColor": "",
+        "exceptionVariableField": "",
+        "flowname": "attacker4930.co.unpw"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
