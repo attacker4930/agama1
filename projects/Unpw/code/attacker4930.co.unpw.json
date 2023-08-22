@@ -54,7 +54,9 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-start-square",
-					"timeout": "100"
+					"timeout": "100",
+					"inputs": "12123",
+					"configs": "213123"
 				},
 				"skake": true
 			},
@@ -191,7 +193,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
