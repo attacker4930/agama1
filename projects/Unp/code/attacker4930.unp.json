@@ -262,7 +262,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 674.9586280968288,
 				"y": 383.80526312001507
@@ -402,7 +402,7 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "ph:globe-simple",
-					"asssignedVariableName": "creds.password"
+					"asssignedVariableName": "creds"
 				},
 				"skake": false
 			},
@@ -474,11 +474,11 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "ph:globe-simple",
-					"asssignedVariableName": "creds.username"
+					"asssignedVariableName": "creds"
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 12.221156720299348,
 				"y": 307.7193935782666
@@ -1053,8 +1053,8 @@
 		}
 	],
 	"viewport": {
-		"x": 13,
-		"y": -37,
+		"x": -1,
+		"y": -11,
 		"zoom": 1
 	}
 }
