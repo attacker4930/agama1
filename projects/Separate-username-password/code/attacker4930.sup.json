@@ -54,7 +54,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
@@ -125,7 +126,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authService"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -234,8 +236,8 @@
 		}
 	],
 	"viewport": {
-		"x": 12,
-		"y": 18,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
