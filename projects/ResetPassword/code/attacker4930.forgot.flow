@@ -6,5 +6,5 @@ When user is not null
      user = Call co.sample#VerifySecurityQuestion user
      Finish false
 Flow = VerifySecurityQuestion(user)
-user = Call co.sampe#generateSecurityQuestion 
+securityQuestion = Call co.sampe#generateSecurityQuestion user
 Repeat 3 times max
