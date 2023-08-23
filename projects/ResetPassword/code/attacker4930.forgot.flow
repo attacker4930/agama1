@@ -3,4 +3,4 @@ Flow attacker4930.forgot
 creds = RRF "resetpassword.ftlh" 
 user = Call co.sample#findUserByUsername creds.username
 When user is not null
-     user = Trigger VerifySecurityQuestion 
+     user = Call Call#VerifySecurityQuestion 
