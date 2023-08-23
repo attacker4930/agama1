@@ -42,7 +42,7 @@
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "",
+					"arguments": "user",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
@@ -51,18 +51,19 @@
 					"conditionInputField": "",
 					"valueField": "",
 					"returnVariable": "",
-					"javaClassName": "Call",
+					"javaClassName": "co.sample",
 					"javaMethodName": "VerifySecurityQuestion",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Verify Security Question",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "user"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
