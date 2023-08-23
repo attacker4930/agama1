@@ -5,6 +5,6 @@ user = Call co.sample#findUserByUsername creds.username
 When user is not null
      user = Call co.sample#VerifySecurityQuestion user
      Finish false
-Flow = "VerifySecurityQuestion(user)"
+Flow = VerifySecurityQuestion(user)
 securityQuestion = Call co.sampe#generateSecurityQuestion user
 Repeat 3 times max
