@@ -662,7 +662,7 @@
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "",
+					"arguments": "user",
 					"logMessage": "",
 					"templatePath": "",
 					"maxIteration": "",
@@ -683,9 +683,9 @@
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "Flow"
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 930,
@@ -879,7 +879,7 @@
 					"Agama-when-Node-a3ad8c45-a5ee-428e-84c5-5090f4bd843d.FAILURE",
 					"Agama-when-Node-a3ad8c45-a5ee-428e-84c5-5090f4bd843d.SUCCESS"
 				],
-				"skake": true
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -1156,7 +1156,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "securityQuestion"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -1233,7 +1234,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1376,
