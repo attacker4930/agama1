@@ -5,4 +5,5 @@ user = Call co.sample#findUserByUsername creds.username
 When user is not null
      user = Call co.sample#VerifySecurityQuestion user
      Finish false
-user = RRF "resetpassword.ftlh" VerifySecurityQuestion(user)
+Flow = RRF "resetpassword.ftlh" VerifySecurityQuestion(user)
+Repeat 3 times max
