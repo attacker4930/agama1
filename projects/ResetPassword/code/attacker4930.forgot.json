@@ -61,14 +61,15 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "ph:globe-simple",
-					"asssignedVariableName": "Flow"
-				}
+					"asssignedVariableName": "user"
+				},
+				"skake": true
 			},
 			"positionAbsolute": {
 				"x": 893,
 				"y": 83
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
 		},
 		{
@@ -1233,7 +1234,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1354.429788559004,
