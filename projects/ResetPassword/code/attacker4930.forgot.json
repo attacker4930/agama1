@@ -65,7 +65,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 2375,
@@ -743,7 +743,7 @@
 					"conditionInputField": "",
 					"valueField": "",
 					"returnVariable": "",
-					"javaClassName": "co.sampe",
+					"javaClassName": "co.sample",
 					"javaMethodName": "generateSecurityQuestion",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
@@ -757,7 +757,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1093,
