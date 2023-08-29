@@ -2,4 +2,16 @@
 Flow attacker4930.rsp
      Basepath ""
 // 
-RRF "__________" 
+authService = Call io.jans.as.server.service.AuthenticationService#class 
+// 
+cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
+// 
+authResult = {}
+// 
+creds = RRF "pr.ftlh" authResult
+// 
+authResult.uid = creds.pr
+// undefined
+When authResult.success is true
+     // 
+     Finish authResult.uid
